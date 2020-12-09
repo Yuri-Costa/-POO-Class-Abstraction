@@ -36,6 +36,8 @@ namespace ABS
              if (senha == senha1)
             {Console.WriteLine("senha correta!!!");
             Console.WriteLine("pagamento concluido");   
+            }else{
+                Console.WriteLine("senha incorreta!!!");
             }
             
            
