@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\ABS\bin\Debug\netcoreapp3.1\ABS.exe
+C:\Users\dev\Desktop\ABS\bin\Debug\netcoreapp3.1\ABS.deps.json
+C:\Users\dev\Desktop\ABS\bin\Debug\netcoreapp3.1\ABS.runtimeconfig.json
+C:\Users\dev\Desktop\ABS\bin\Debug\netcoreapp3.1\ABS.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ABS\bin\Debug\netcoreapp3.1\ABS.dll
+C:\Users\dev\Desktop\ABS\bin\Debug\netcoreapp3.1\ABS.pdb
+C:\Users\dev\Desktop\ABS\obj\Debug\netcoreapp3.1\ABS.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ABS\obj\Debug\netcoreapp3.1\ABS.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ABS\obj\Debug\netcoreapp3.1\ABS.AssemblyInfo.cs
+C:\Users\dev\Desktop\ABS\obj\Debug\netcoreapp3.1\ABS.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ABS\obj\Debug\netcoreapp3.1\ABS.dll
+C:\Users\dev\Desktop\ABS\obj\Debug\netcoreapp3.1\ABS.pdb
+C:\Users\dev\Desktop\ABS\obj\Debug\netcoreapp3.1\ABS.genruntimeconfig.cache
