@@ -4,7 +4,13 @@ namespace ABS
     {
     
         private float saldo = 600;
-        private int senha = 4444;
+         public string pagamentoD;
+        private int senhaD = 4444;
+        public int SenhaD {
+            get{return senhaD;}
+        }
+        
+
 
          public void Pagar(float valor){
             

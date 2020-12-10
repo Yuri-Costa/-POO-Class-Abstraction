@@ -3,8 +3,11 @@ namespace ABS
 {
     public class Boleto : Pagamento
     {
-        private string codigoDeBarras = "40028922";
-
+        private int codigoDeBarras = 40028922;
+        public int CodigoDeBarras{
+          get{return codigoDeBarras;}
+        }
+        public string mensagem;
         public void Registrar(){
 
         }  
@@ -13,6 +16,10 @@ namespace ABS
                 Console.ForegroundColor = ConsoleColor.Red;
                 return "Operação Cancelada!!!";
           }
+
+         public string PagarPorBoleto(){
+           return "";
+         }
 
 
   }
