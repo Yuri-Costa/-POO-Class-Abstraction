@@ -13,6 +13,11 @@ namespace ABS
         public string Pagar(){
             return "insira sua senha para o pagamento!";
         }
+            public void PagarJuros(){
+            float total1 = this.Valor -(this.Valor * 0.05f);
+            float total2 = this.Valor -(this.Valor * 0.07f);
+            }
+
 
            
     }
